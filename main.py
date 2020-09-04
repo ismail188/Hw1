@@ -56,7 +56,7 @@ elif course2 == "B-":
   gradepoint2 += 2.67
 elif course2 == "C+":
   print(F"Grade point for course 2 is: 2.33")
-  gradepoint1 += 2.33
+  gradepoint2 += 2.33
 elif course2 == "C":
   print(F"Grade point for course 2 is: 2.0")
   gradepoint2 += 2.0
@@ -88,7 +88,7 @@ elif course3 == "B-":
   gradepoint3 += 2.67
 elif course3 == "C+":
   print(F"Grade point for course 3 is: 2.33")
-  gradepoint1 += 2.33
+  gradepoint3 += 2.33
 elif course3 == "C":
   print(F"Grade point for course 3 is: 2.0")
   gradepoint3 += 2.0

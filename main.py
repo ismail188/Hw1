@@ -4,7 +4,7 @@
 # Collaborator: John Patrowicz jhp5270@psu.edu
 
 course1 = input("Enter your course 1 letter grade: ")
-credit1 = float(input("Enter your couse 1 credit: "))
+credit1 = float(input("Enter your course 1 credit: "))
 gradepoint1 = 0.0
 if course1 == "A":
   print(F"Grade point for course 1: 4.0 ")
@@ -63,7 +63,7 @@ else :
   
   
 course3 = input("Enter your course 3 letter grade: ")
-credit3 = float(input("Enter your couse 3 credit: "))
+credit3 = float(input("Enter your course 3 credit: "))
 gradepoint3 = 0.0
 if course3 == "A":
   print(F"Grade point for course 3: 4.0 ")
